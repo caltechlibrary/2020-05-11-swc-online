@@ -327,7 +327,7 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
-Download the <a href="/2020-05-11-Python-Workshop/files/carpentries.zip">data files</a> and extract and save them somewhere where you can find them easily (like your Desktop).
+Download the <a href="/2020-05-11-swc-online/files/carpentries.zip">data files</a> and extract and save them somewhere where you can find them easily (like your Desktop).
 
 <p>
   To participate in a

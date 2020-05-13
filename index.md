@@ -313,6 +313,14 @@ please preview your site before committing, and make sure to run
 
 <hr/>
 
+<h3>Notebooks</h3>
+
+We used Jupyter notebooks during the workshop to collect our Python code.  Here are the instructor notebooks from each day:
+
+<a href="/2020-03-09-Python-Workshop/files/Day1-Tom.ipynb">Day 1, Part 1</a>
+
+<a href="/2020-03-09-Python-Workshop/files/Day1-Tommy.ipynb">Day 1, Part 2</a>
+
 {% comment %}
 SETUP
 

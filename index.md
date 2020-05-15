@@ -323,6 +323,8 @@ We used Jupyter notebooks during the workshop to collect our Python code.  Here 
 
 <a href="/2020-05-11-swc-online/files/Day2-Tom.ipynb">Day 2, Part 2</a>
 
+<a href="https://github.com/tmorrell/2020-05-15-python-workshop">Working with python libraries</a>
+
 {% comment %}
 SETUP
 

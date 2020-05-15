@@ -321,6 +321,8 @@ We used Jupyter notebooks during the workshop to collect our Python code.  Here 
 
 <a href="/2020-05-11-swc-online/files/Day1-Tommy.ipynb">Day 1, Part 2</a>
 
+<a href="/2020-05-11-swc-online/files/Day2-Tom.ipynb">Day 2, Part 2</a>
+
 {% comment %}
 SETUP
 

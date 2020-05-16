@@ -323,7 +323,11 @@ We used Jupyter notebooks during the workshop to collect our Python code.  Here 
 
 <a href="/2020-05-11-swc-online/files/Day2-Tom.ipynb">Day 2, Part 2</a>
 
-<a href="https://github.com/tmorrell/2020-05-15-python-workshop">Working with python libraries</a>
+<a href="https://github.com/tmorrell/2020-05-15-python-workshop">Advanced Python: Working with Python libraries</a>
+
+<a href="/2020-05-11-swc-online/files/dataframes_lesson.ipynb">Advanced Python: Pandas</a>
+
+<a href="/2020-05-11-swc-online/files/Plotting.ipynb">Advanced Python: Plotting in plotnine/ggplot</a>
 
 {% comment %}
 SETUP
